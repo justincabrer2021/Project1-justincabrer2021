@@ -42,7 +42,7 @@ GIF created with [ScreenToGif](https://www.screentogif.com/)
 
 ## Notes
 
-I was struggling with finding a topic as well as adding images. Based on my learnings on lab 1, I was able to sync my codepath, github, and VScode much smoother and quicker. 
+I was struggling with finding a topic as well as adding images. Based on my studies and learnings on lab 1, I was able to sync my codepath, github, and VScode much smoother and quicker. 
 
 ## License
 
