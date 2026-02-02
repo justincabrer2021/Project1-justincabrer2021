@@ -38,7 +38,7 @@ Here's a walkthrough of implemented required features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGif](https://www.screentogif.com/) 
-![alt text](Animation.gif)
+![alt text](Animation-1.gif)
 
 ## Notes
 
