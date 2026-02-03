@@ -41,6 +41,8 @@ GIF created with [ScreenToGif](https://www.screentogif.com/)
 ![alt text](Animation.gif)
 [![Demo GIF](timetabled/Animation.gif)](https://raw.githubusercontent.com/justincabrer2021/Project1-justincabrer2021/main/timetabled/Animation.gif)
 
+(https://raw.githubusercontent.com/justincabrer2021/Project1-justincabrer2021/main/timetabled/Animation.gif)
+
 
 ## Notes
 
