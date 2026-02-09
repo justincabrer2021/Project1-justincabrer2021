@@ -31,13 +31,18 @@ The following **additional** features are implemented:
 * [✔] List anything else that you added to improve the site's functionality!
 I learned how to create my own app, building the project, using React components, props, and CSS for styling. Through this project, I learned how to structure a React app, create reusable components, and apply responsive design with CSS Grid. I added a board that displays a collection of restaurant cards that highlight well-known local favorites along with their locations.
 
-## Video Walkthrough
+## Video Walkthrough including GIF
 
 Here's a walkthrough of implemented required features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [ScreenToGif](https://www.screentogif.com/) 
+GIF created with [ScreenToGif](https://www.screentogif.com/)
+
+![Project 1 Demo](https://github.com/justincabrer2021/Project1-justincabrer2021/raw/main/Animation.gif)
+
+
+## Extra Gifs
 ![alt text](Animation.gif)
 [![Demo GIF](timetabled/Animation.gif)](https://raw.githubusercontent.com/justincabrer2021/Project1-justincabrer2021/main/timetabled/Animation.gif)
 
